@@ -10,7 +10,7 @@ Most enterprise FinOps tools are merely dashboards—they tell you what you *alr
 
 By correlating **External Economic Signals** (from *The Economic Times*) with **Internal Infrastructure Data**, SENTINEL-ET identifies financial risks, calculates propagated impact across dependencies, and generates executable remediation code (CLI/Terraform) in under 10 seconds.
 
----
+--- 
 
 ## 🧠 Technical Innovation: The "Swarm" Architecture
 SENTINEL-ET is built on a **Stateful Multi-Agent Graph (LangGraph)**, coordinating three specialized intelligence layers:
